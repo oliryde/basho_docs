@@ -51,7 +51,7 @@ This a collection of sample applications built on Riak and Riak Core.
 
 ### Riak Core
 
-_Riak Core (or `riak_core` as it's written in the code) is the distributed systems framework that underpins Riak. For more general information on Riak Core, [start with this blog post](http://blog.basho.com/2011/04/12/Where-To-Start-With-Riak-Core/)._
+_Riak Core (or `riak_core` as it's written in the code) is the distributed systems framework that underpins Riak. For more general information on Riak Core, [start with this blog post](http://basho.com/posts/technical/where-to-start-with-riak-core/)._
 
 * [NKcluster](https://github.com/Nekso/nkcluster) is a framework for creating clusters of Erlang nodes of any size, and distributing and managing jobs
 * [Basho Didgeridoo](https://github.com/cmeiklejohn/BashoDidgeridoo) is an application that uses Riak Core to play distributed music
@@ -86,7 +86,6 @@ Some projects have lost its maintainer with time. Here are all projects that hav
 * [Brackup](http://code.google.com/p/brackup/) --- A modern net-based backup system that supports de-duplication, intelligent chunking, and [GPG](http://en.wikipedia.org/wiki/GNU_Privacy_Guard)-based-encryption
 * [riak_mapreduce_utils](http://github.com/whitenode/riak_mapreduce_utils) --- A library of mapreduce utility functions developed in Erlang
 * [riakbloom](http://github.com/whitenode/riakbloom) --- A solution allowing Bloom filters to be created and used in MapReduce jobs
-* [Qi4j Riak EntityStore](http://qi4j.org/extension-es-riak.html) --- Qi4j EntityStore service backed by a Riak bucket
 * [ldapjs-riak](https://github.com/mcavage/node-ldapjs-riak) --- A Riak backend for [ldapjs](http://ldapjs.org)
 * [otto](https://github.com/ncode/otto) --- S3 Clone built on top of Cyclone with support for Riak
 * [Riaktivity](https://github.com/roidrage/riaktivity) --- A Ruby library for storing timelines in Riak
@@ -95,7 +94,7 @@ Some projects have lost its maintainer with time. Here are all projects that hav
 * [bitcask-ruby](https://github.com/aphyr/bitcask-ruby) --- An interface to the Bitcask storage system
 * [Riak BTree Backend](https://github.com/krestenkrab/riak_btree_backend) --- Backend for Riak/KV based on couch_btree*
 * [Riak Link Index](https://github.com/krestenkrab/riak_link_index) --- Simple Indexer for Riak based on Links
-* [rack-rekon](https://github.com/seomoz/rack-rekon) --- A Rack application to serve [Rekon](https://github.com/adamhunter/rekon/)
+* [Rekon](https://github.com/adamhunter/rekon/) --- A Rack application.
 * [ring-session-riak](https://github.com/ossareh/ring-session-riak) --- A Riak implementation for Ring Session
 * [Riak to CSV Export](https://github.com/bradfordw/riak_csv) --- A simple way to export your Riak buckets to CSV files
 * [Couch to Riak](http://github.com/mattsta/couchdb/tree/couch_file-to-riak)
@@ -129,7 +128,6 @@ Some projects have lost its maintainer with time. Here are all projects that hav
 * [riaktant](https://github.com/basho/riaktant) --- A full-blown NodejS app that stores and makes syslog messages searchable in Riak Search
 * [selusuh](https://github.com/OJ/selusuh) --- Riak application that presents JSON slide decks (thanks, [OJ](http://twitter.com/thecolonial)!)
 * [Rekon](https://github.com/adamhunter/rekon) --- A Riak data browser, built as a totally self-contained Riak application
-* [Slideblast](https://github.com/rustyio/SlideBlast) --- Share and control slide presentation for the web
 * [riak_php_app](http://github.com/schofield/riak_php_app) --- A small PHP app that shows some basic usage of the Riak PHP library
 * [riak-url-shortener](http://github.com/seancribbs/riak-url-shortener) --- A small Ruby app (with Sinatra) that creates short URLs and stores them in Riak
 * [wriaki](https://github.com/basho-labs/wriaki) --- A wiki app backed by Riak

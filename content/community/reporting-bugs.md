@@ -49,7 +49,7 @@ filing, please attempt do the following:
 ## Writing and Filing Your Bug Report
 
 You'll need a GitHub account to file an issue. If you do not have one,
-you can [sign up](https://github/com/signup/free) for a free account.
+you can [sign up](https://github.com/join?source=header-home) for a free account.
 
 * Select the [appropriate GitHub repo](https://github.com/basho/) for
   your bug. There is a lot of code that makes up Riak, so be sure to
